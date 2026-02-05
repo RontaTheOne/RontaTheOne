@@ -82,6 +82,12 @@
 </p>	
 <br>
 
+## 🌍 Languages
+
+Spanish (Native)  
+English (Intermediate)
+<br><br>
+
 ###  <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
 	<a href="https://www.linkedin.com/in/ronald-tapias-rojas-7090452aa" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
