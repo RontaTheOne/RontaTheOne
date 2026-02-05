@@ -23,6 +23,16 @@
 
 - Currently pursuing a Bachelor's Degree in Systems Engineering at Universidad Cooperativa de Colombia.
 - Graduated from Julío Flórez ITD High School – Technical high school diploma in software programming (2020).
+### 🏆 Certificates
+
+- Play It Safe: Manage Security Risks-Google (2025)
+- Getting Started with Git and GitHub-IBM (2025)
+- Play It Safe: Manage Security Risks-Google (2025)
+- Foundations: Data, Data, Everywhere-Google (2025)
+- Foundations of Cybersecurity-Google (2025)
+- Cómo resolver problemas y tomar decisiones con eficacia-University of California (2025)
+- Ciberseguridad-Universidad Distrital Francisco José de Caldas(2024)
+
 <br><br>
 ## 🛠 &nbsp;My Skills
 
