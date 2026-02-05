@@ -8,7 +8,6 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<br><br>
 -👨‍🎓 I am a Systems Engineering student passionate about Software Development and Cybersecurity.
 
 -🎮 I am developing Dorado: Origin, an independent 3D video game inspired by Muisca culture and Colombian heritage.
@@ -24,7 +23,6 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<br><br>
 - Currently pursuing a Bachelor's Degree in Systems Engineering at Universidad Cooperativa de Colombia.
 - Graduated from Julío Flórez ITD High School – Technical high school diploma in software programming (2020).
 <br><br>
