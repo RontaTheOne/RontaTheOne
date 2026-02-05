@@ -43,7 +43,7 @@
   </a>
 </p>
 
- ###  <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Databases
+ ###  <picture> <img src = "https://dribbble.com/shots/2224299-Database-Analytics-Icon?raw=true" width = 50px>  </picture> Databases
  <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,mysql" />
@@ -70,8 +70,8 @@
 
 ###  <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
-	<a href="https://www.linkedin.com/in/1010nishant/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-	<a href="https://discordapp.com/users/957722095381540874" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>  
+	<a href="https://www.linkedin.com/in/ronald-tapias-rojas-7090452aa" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+	<a href="https://discordapp.com/users/752263082998497301" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>  
 </p>
 
 <p align = "center">
