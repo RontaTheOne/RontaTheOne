@@ -24,7 +24,7 @@
 - Currently pursuing a Bachelor's Degree in Systems Engineering at Universidad Cooperativa de Colombia.
 - Graduated from Julío Flórez ITD High School – Technical high school diploma in software programming (2020).
 <br><br>
-### 🛠 &nbsp;My Skills
+## 🛠 &nbsp;My Skills
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
 <p align="center">
