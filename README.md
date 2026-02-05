@@ -57,7 +57,7 @@
   </a>
 </p>
 
- ###  <picture> <img src = "https://dribbble.com/shots/2224299-Database-Analytics-Icon?raw=true" width = 50px>  </picture> Databases
+ ###  <picture> <img src = "assets/databases.gif?raw=true" width = 50px>  </picture> Databases
  <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,mysql" />
