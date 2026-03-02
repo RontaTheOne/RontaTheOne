@@ -21,7 +21,7 @@
 
 ## 🎓 Education
 
-- Currently pursuing a Bachelor's Degree in Systems Engineering at Universidad Cooperativa de Colombia.
+- Bachelor's Degree in Systems Engineering at Universidad Cooperativa de Colombia.
 - Graduated from Julío Flórez ITD High School – Technical high school diploma in software programming (2020).
 ### 🏆 Certificates
 
