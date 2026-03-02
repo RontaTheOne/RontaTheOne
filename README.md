@@ -8,7 +8,7 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
--👨‍🎓 I am a Systems Engineering student passionate about Software Development and Cybersecurity.
+-👨‍🎓 I am a Systems engineer passionate about Software Development and Cybersecurity.
 
 -🎮 I am developing Dorado: Origin, an independent 3D video game inspired by Muisca culture and Colombian heritage.
 
