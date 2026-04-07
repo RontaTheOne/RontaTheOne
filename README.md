@@ -6,35 +6,48 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 450px></picture>
 
--👨‍🎓 I am a Systems engineer passionate about Software Development and Cybersecurity.
+<br>
 
--🎮 I am developing Dorado: Origin, an independent 3D video game inspired by Muisca culture and Colombian heritage.
+- I´m a Systems Engineer with a strong foundation in technology, problem-solving, and system design.
+- I´m passionate about cybersecurity, full stack development, and systems architecture.
+- I´m developing Dorado: Origin, an independent 3D video game inspired by Muisca culture and Colombian heritage.
 
--🧠 Strong focus on software quality, clean architecture, and structured project design.
+💡 Currently, I am learning networking to strengthen my technical profile.
 
--🚀 Open to opportunities as a Junior Software Developer or Junior Cybersecurity Analyst.
+🎯 Goal: Convertirme en Full Stack + Security Engineer.
 
--📚 Always learning, always building.
-<br><br>
+🚀 Open to opportunities as a Software Developer Junior or Cybersecurity Analyst Junior.
 
-## 🎓 Education
+<br>
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
-- Bachelor's Degree in Systems Engineering at Universidad Cooperativa de Colombia.
+### 🎓 Education
+- Bachelor's Degree in Systems Engineering at Universidad Cooperativa de Colombia (2021-2026).  
 - Graduated from Julío Flórez ITD High School – Technical high school diploma in software programming (2020).
+
+    </td>
+    <td valign="top" width="50%">
+
 ### 🏆 Certificates
+- Play It Safe: Manage Security Risks - Google (2025)  
+- Getting Started with Git and GitHub - IBM (2025)  
+- Foundations: Data, Data, Everywhere - Google (2025)  
+- Foundations of Cybersecurity - Google (2025)  
+- Cómo resolver problemas y tomar decisiones con eficacia - University of California (2025)  
+- Ciberseguridad - Universidad Distrital Francisco José de Caldas (2024)
 
-- Play It Safe: Manage Security Risks-Google (2025)
-- Getting Started with Git and GitHub-IBM (2025)
-- Play It Safe: Manage Security Risks-Google (2025)
-- Foundations: Data, Data, Everywhere-Google (2025)
-- Foundations of Cybersecurity-Google (2025)
-- Cómo resolver problemas y tomar decisiones con eficacia-University of California (2025)
-- Ciberseguridad-Universidad Distrital Francisco José de Caldas(2024)
+    </td>
+  </tr>
+</table>
+<br>
 
-<br><br>
 ## 🛠 &nbsp;My Skills
+
+<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
 <p align="center">
@@ -86,13 +99,13 @@
 
 <picture> <img src = "assets/ES.png?raw=true" width = 30px>  </picture> (Native)  
 <img src = "assets/EN.png?raw=true" width = 30px>  </picture> (Intermediate)
+
 <br><br>
 
-###  <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
-<p align="center">
+<picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px" hight="100px"> </picture> 
+<div align="center">
 	<a href="https://www.linkedin.com/in/ronald-tapias-rojas-7090452aa" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 	<a href="https://discordapp.com/users/752263082998497301" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>  
-</p>
-
+</div>
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
